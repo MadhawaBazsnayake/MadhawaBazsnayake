@@ -1,48 +1,76 @@
-<div align="center">
+# Hello World! I'm Madhawa Basnayake 👋
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Madhawa Basnayake 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+  <b>Software Engineering Undergraduate | Tech Enthusiast | Scout Leader</b>
+</p>
 
-### 🚀 Software Engineering Undergraduate
-
----
-
-## ⚡ About Me
-
-I am a tech enthusiast passionate about engineering intelligent digital experiences. I focus on building systems that are not just functional, but scalable and user-friendly.
-
-- 🔭 I’m currently building **ScoutPass** (Digital Command Center for Events).
-- 🌱 I’m currently exploring **AI Agents** & **Serverless Cloud Architecture**.
-- 💡 I love solving real-world problems using **Process Automation** & **Clean UI**.
-- 🎓 Focused on **Software Engineering**, **Data Structures**, and **Algorithms**.
-- 🤝 I’m looking to collaborate on **Open Source Projects** and **SaaS Applications**.
-- 🛠️ I enjoy building **Automated Workflows** to streamline daily tasks.
+<p align="center">
+  <a href="mailto:x.madhawa.me@gmail.com"><img src="https://img.shields.io/badge/Email-x.madhawa.me%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/MadhawaBasnayake"><img src="https://img.shields.io/badge/GitHub-MadhawaBasnayake-black?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-green?style=for-the-badge" /></a>
+</p>
 
 ---
 
-## 🛠️ The Arsenal (Tech Stack)
+### ⚡ About Me
 
-<div align="center">
+I am a passionate Software Engineering student from Sri Lanka, dedicated to building clean UI experiences and automated workflows.
 
-| Core | Frontend & UI | Backend & Cloud | Tools |
-| :---: | :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Apps Script](https://img.shields.io/badge/AppsScript-4285F4?style=flat-square&logo=google&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | | | |
-
-</div>
+- 🔭 **Currently Building:** [ScoutPass](https://github.com/MadhawaBasnayake) — A Digital Command Center for event management.
+- 🌱 **Currently Exploring:** AI Agents & Serverless Cloud Architecture.
+- 🎓 **Focusing On:** Data Structures, Algorithms, and Full-stack development.
+- 🤝 **Looking To:** Collaborate on Open Source & SaaS projects.
+- 🛠️ **Passion:** Process Automation and building scalable systems.
 
 ---
 
-<div align="center">
+### 🛠️ The Arsenal
 
-### 📬 Connect & Collaborate
+**Languages & Core**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-x.madhawa.me%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:x.madhawa.me@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MadhawaBasnayake-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhawaBasnayake)
+**Frameworks & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,firebase,gcp,supabase" />
+</p>
 
-<br>
-<i>"Simplicity is the ultimate sophistication."</i>
-<br><br>
+**Tools & Design**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
 
-</div>
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhawaBasnayake&show_icons=true&theme=tokyonight&hide_border=true" alt="Madhawa's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhawaBasnayake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌿 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhawaBasnayake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✨ My Philosophy
+
+> "Simplicity is the ultimate sophistication." 
+> — *Leonardo da Vinci*
+
+---
+
+<p align="center">
+  Built with ❤️ by <b>Madhawa Basnayake</b>
+</p>
