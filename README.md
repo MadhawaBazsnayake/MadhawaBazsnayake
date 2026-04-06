@@ -1,27 +1,27 @@
-# Hello World! I'm Madhawa Basnayake 👋
+# Hi there! I'm Madhawa Basnayake 👋 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-  <b>Software Engineering Undergraduate | Tech Enthusiast | Scout Leader</b>
+  <b>Software Engineering Student | Scout Leader @ Kegalle District | Tech Explorer</b>
 </p>
 
 <p align="center">
-  <a href="mailto:x.madhawa.me@gmail.com"><img src="https://img.shields.io/badge/Email-x.madhawa.me%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/MadhawaBasnayake"><img src="https://img.shields.io/badge/GitHub-MadhawaBasnayake-black?style=for-the-badge&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-green?style=for-the-badge" /></a>
+  <a href="mailto:x.madhawa.me@gmail.com"><img src="https://img.shields.io/badge/Email-x.madhawa.me%40gmail.com-63b3ed?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/MadhawaBazsnayake"><img src="https://img.shields.io/badge/GitHub-MadhawaBazsnayake-black?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-34d399?style=for-the-badge" /></a>
 </p>
 
 ---
 
 ### ⚡ About Me
 
-I am a passionate Software Engineering student from Sri Lanka, dedicated to building clean UI experiences and automated workflows.
+I am a Software Engineering undergraduate from Sri Lanka, passionate about building clean UI experiences and process automation.
 
-- 🔭 **Currently Building:** [ScoutPass](https://github.com/MadhawaBasnayake) — A Digital Command Center for event management.
-- 🌱 **Currently Exploring:** AI Agents & Serverless Cloud Architecture.
-- 🎓 **Focusing On:** Data Structures, Algorithms, and Full-stack development.
-- 🤝 **Looking To:** Collaborate on Open Source & SaaS projects.
-- 🛠️ **Passion:** Process Automation and building scalable systems.
+- 🔭 **Current Focus:** [ScoutPass](https://github.com/MadhawaBazsnayake) — Digital attendance & activity tracking for scout events.
+- 🎨 **Projects:** Building **AstroBoard** (Infinite canvas whiteboard) and **GitStart** (Git learning tool).
+- 🌱 **Exploring:** AI Agents, Serverless Cloud, and Supabase.
+- ⚜️ **Community:** Proud Scout Leader in the Kegalle District Scout Association.
+- 💡 **Philosophy:** *"Simplicity is the ultimate sophistication."*
 
 ---
 
@@ -34,7 +34,7 @@ I am a passionate Software Engineering student from Sri Lanka, dedicated to buil
 
 **Frameworks & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,firebase,gcp,supabase" />
+  <img src="https://skillicons.dev/icons?i=tailwind,firebase,supabase,gcp" />
 </p>
 
 **Tools & Design**
@@ -47,11 +47,11 @@ I am a passionate Software Engineering student from Sri Lanka, dedicated to buil
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhawaBasnayake&show_icons=true&theme=tokyonight&hide_border=true" alt="Madhawa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhawaBazsnayake&show_icons=true&theme=tokyonight&hide_border=true" alt="Madhawa's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhawaBasnayake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhawaBazsnayake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -59,15 +59,8 @@ I am a passionate Software Engineering student from Sri Lanka, dedicated to buil
 ### 🌿 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhawaBasnayake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhawaBazsnayake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### ✨ My Philosophy
-
-> "Simplicity is the ultimate sophistication." 
-> — *Leonardo da Vinci*
 
 ---
 
